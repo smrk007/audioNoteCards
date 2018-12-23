@@ -4,7 +4,6 @@
 
 Notecards should follow the formatting below, and be named input.txt...
 
-	<pre>
 	Question1
 	Answer1
 
@@ -15,5 +14,4 @@ Notecards should follow the formatting below, and be named input.txt...
 	Answer3
 
 	...
-	</pre>
 
